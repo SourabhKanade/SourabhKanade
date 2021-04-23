@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sourabh!
+Hii 👋, I'm Sourabh
+- 🖥 I'm a self taught programmer and currently working as frontend developer.
 - 👀 I’m interested to contribute in opensource development projects and also enthusiast in cybersecurity.
 - 🌱 I’m currently learning web development and its functionalities.
 - 📫 How to reach me: https://twitter.com/kanade_sourabh
