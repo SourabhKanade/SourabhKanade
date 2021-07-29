@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **MVP's**
 
-- 👨‍💻 Visit my portfolio **sourabh.vercel.app**
+- 👨‍💻 Visit my portfolio **[sourabh.vercel.app](sourabh.vercel.app)**
 
 - 📫 How to reach me **kanadesourabh420@gmail.com**
 
