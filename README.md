@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kanade</h1>
-<h3 align="center">A passionate frontend developer from India</h3> <br>
+<h3 align="center">A passionate frontend developer from India</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhkanade&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkanade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ksourabh_21" target="blank"><img src="https://img.shields.io/twitter/follow/ksourabh_21?logo=twitter&style=for-the-badge" alt="ksourabh_21" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning JavaScript **Libraries**
 
-- 👯 I’m looking to collaborate with **MVP's**
+- 🚀 Aspiring **MERN Stack Developer**
+
+- 👯 I’m looking forward to collaborate with **MVP's**
 
 - 👨‍💻 Visit my portfolio **[sourabh.vercel.app](https://sourabh.vercel.app)**
 
