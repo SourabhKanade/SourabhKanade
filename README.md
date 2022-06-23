@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ksourabh_21" target="blank"><img src="https://img.shields.io/twitter/follow/ksourabh_21?logo=twitter&style=for-the-badge" alt="ksourabh_21" /></a> </p>
 
-- 🌱 I’m currently learning JavaScript **Libraries**
+- 🌱 I’m looking to collaborate on anything related to Javascript.
 
 - 🚀 Aspiring **MERN Stack Developer**
 
