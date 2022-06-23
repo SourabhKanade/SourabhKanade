@@ -40,6 +40,5 @@
 
 <br>
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkanade&show_icons=true&locale=en&theme=radical&line_height=27" alt="sourabhkanade's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhkanade&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" alt="sourabhkanade" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkanade&show_icons=true&locale=en&theme=radical&line_height=27" alt="sourabhkanade's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhkanade&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" alt="sourabhkanade" />
 </p>
