@@ -40,8 +40,8 @@
 <p align="center">
 <br>
 <a href="#" >
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkanade&show_icons=true&locale=en&theme=radical&line_height=29" alt="github_stats" /> 
-  </a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkanade&show_icons=true&locale=en&theme=radical&line_height=32" alt="github_stats" /> 
+  </a>&nbsp;
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkanade&theme=radical&hide=glsl,python" />
 </a>  
