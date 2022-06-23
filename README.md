@@ -37,10 +37,12 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
  </a>
  </p>
-
-<br>
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkanade&show_icons=true&locale=en&theme=radical&line_height=28" width="auto" alt="sourabhkanade's github stats" /> 
-  </p>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhkanade&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27&hide=glsl" width="auto" alt="sourabhkanade" /> -->
-
+<br>
+<a href="#" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhkanade&show_icons=true&locale=en&theme=radical&line_height=29" alt="github_stats" /> 
+  </a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhkanade&theme=radical&hide=glsl,python" />
+</a>  
+  
