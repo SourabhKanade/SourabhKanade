@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourabh Kanade</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sourabh Kanade </h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
 
 <div align=center>
