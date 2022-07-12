@@ -1,5 +1,6 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sourabh Kanade </h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sourabh Kanade </h1> 
+
+<h3 align="center">A passionate frontend developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h3> 
 
 <div align=center>
   <a href="https://www.linkedin.com/in/sourabhkanade/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>&nbsp;&nbsp;
