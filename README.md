@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sourabh Kanade </h1> 
 
-<h3 align="center">A passionate frontend developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h3> 
+<h3 align="center">A passionate frontend developer from India  </h3> 
 
 <div align=center>
   <a href="https://www.linkedin.com/in/sourabhkanade/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>&nbsp;&nbsp;
@@ -10,9 +10,12 @@
 
 <!-- <p align="center"> <a href="https://twitter.com/ksourabh_21" target="blank"><img src="https://img.shields.io/twitter/follow/ksourabh_21?logo=twitter&style=for-the-badge" alt="ksourabh_21" /></a> </p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sourabhkanade&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkanade" /> </p>
+<!-- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'> -->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sourabhkanade&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhkanade" /> </p>
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210">
 - 🌱 I’m looking to collaborate on anything related to Javascript.
+
 
 - 🚀 Aspiring **MERN Stack Developer**
 
